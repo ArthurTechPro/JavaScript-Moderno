@@ -41,4 +41,4 @@ function saludar({saludo, nombre = "Juan", momento = "día"}) {
     alert(`${saludo} ${nombre}, feliz ${momento}`);
 }
 
-saludar({saludo: "Hola"});
+// saludar({saludo: "Hola"});
